@@ -12,9 +12,11 @@ Community Interaction: Engage with fellow members through our Discord community.
 ## Getting Started
 To get started with Colub, follow these steps:
 
-1. **Clone the Repository**:```bash
+1. **Clone the Repository**:
+```bash
 git clone https://github.com/your-username/colub.git
 cd colub
+```
 **Setup and Install Dependencies**
 
 
