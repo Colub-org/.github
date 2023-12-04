@@ -34,6 +34,7 @@ Before contributing or engaging in our community, please review our Community Gu
 ## Feedback and Support
 - For feedback, bug reports, or general inquiries, please create an issue in this repository.
 - Join our Discord community for real-time discussions and support: Colub Discord.
+  
 [![Join our Discord server!](https://invidget.switchblade.xyz/K6yW3X8UPy)](https://discord.gg/K6yW3X8UPy)
 
 License
