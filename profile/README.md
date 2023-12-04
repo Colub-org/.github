@@ -31,7 +31,7 @@ Run the Application:
 - Join our Discord community for discussions and support.
 
 ## Community Guidelines
-Before contributing or engaging in our community, please review our [Community Guidelines](CommunityGuidelines.md) to ensure a positive and inclusive environment for everyone.
+Before contributing or engaging in our community, please review our [Community Guidelines](https://Colub-org/.github/CommunityGuidelines.md) to ensure a positive and inclusive environment for everyone.
 
 ## Feedback and Support
 - For feedback, bug reports, or general inquiries, please create an issue in this repository.
