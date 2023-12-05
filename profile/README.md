@@ -5,9 +5,9 @@ Welcome to Colub, a community-driven platform for collaboration, project sharing
 Colub is more than just a company and Discord community; it's a space where like-minded individuals come together to collaborate on projects, share ideas, and foster creativity. This repository represents the core of our platform, designed to facilitate seamless collaboration and project sharing.
 
 ## Features
-Blogging Platform: Create and share your thoughts, experiences, and insights with the community.
-Project Hosting: Host your projects and collaborate with others in the community.
-Community Interaction: Engage with fellow members through our Discord community.
+- **Blogging Platform**: Create and share your thoughts, experiences, and insights with the community.
+- **Project Hosting**: Host your projects and collaborate with others in the community.
+- **Community Interaction**: Engage with fellow members through our Discord community.
 
 ## Getting Started
 To get started with Colub, follow these steps:
