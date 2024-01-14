@@ -1,5 +1,5 @@
 # Colub: Collaborative Hub for Projects
-Welcome to Colub, a community-driven platform for collaboration, project sharing, and a hub for creativity! This repository houses the code for our blogging platform and hosting service.
+Welcome to Colub, a community-driven platform for collaboration, project sharing, and a hub for creativity! This organisation houses the code for our blogging platform and hosting service.
 
 ## About Colub
 Colub is more than just a company and Discord community; it's a space where like-minded individuals come together to collaborate on projects, share ideas, and foster creativity. This repository represents the core of our platform, designed to facilitate seamless collaboration and project sharing.
